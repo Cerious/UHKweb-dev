@@ -75,4 +75,10 @@ body{
     z-index: 1;
 }
 
+#modal-header {
+    background:$background-dark;
 
+    #modal-body {
+        background:$background-pale;
+    }
+}
